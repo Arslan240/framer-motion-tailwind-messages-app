@@ -1,6 +1,8 @@
 # framer-motion-tailwind-messages-app
 - This app is built with Framer motion and tailwind css.
 - This app have add message and archive message option.
+- Add message and archive message are animated.
+- Initial Animations are set to false in AnimatePresence Component.
 
 ## Live Demo
 https://messages-app-animated.netlify.app/
